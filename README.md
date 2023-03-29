@@ -8,3 +8,6 @@ In this user can insert the title and discription and after clicking on add butt
 
 # Add Note
 ![NoteTaker_Add Note](https://user-images.githubusercontent.com/100328979/227988148-37ec63a0-05cf-4175-9a2a-9a2bbf807eba.jpeg)
+
+# show All Notes
+![image](https://user-images.githubusercontent.com/100328979/228433678-ab80b829-e23f-4ae6-9f2d-9d0bea55d617.png)
